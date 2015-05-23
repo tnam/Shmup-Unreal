@@ -1,0 +1,51 @@
+Design:
+
+classico shoot em up, spaziale. tipo xenon2?
+
+- vista dall'alto (isometrica..., vedere cosa)
+- sfondo a scorrimento (verticale o orizzontale?)
+
+- oggetti in gioco:
+  > menu -> possibilità di scelta astronavi, difficoltà
+  > l'astronave, upgradabile in armor e fire. 
+     > upgrades? marketplace(oggeti di oggetto statici, trigger, qua e la, il ,mercato spaziale,
+     >  se ho cumulato abbastanza coins, posso comprare cose fiche...
+     > box con upgrade armi...
+  > gli ostacoli : nemici attivi? meteoriti, altre astronavi.
+
+- livelli? si dopo tot superi il vello, boss finale. (sempre + roba da comprare e nemici + forti, alternati a ondate con deboli)
+
+- oggetti statici: le textures con i punteggi armi vita etc... il mercato.
+
+il nome del gioco:
+
+- namboys,           oppure: Space Rabbit!!!, 
+ (lost in spaces)
+
+- astronave: vorrei stile capitan harlock e il logo dei pirati.... 
+
+un pò di cagate:
+
+- https://docs.unrealengine.com/latest/INT/Gameplay/Input/index.html
+- https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/SetUpInput/Blueprints/index.html
+- https://www.unrealengine.com/blog/unreal-engine-47-released
+- https://try.github.io/levels/1/challenges/1
+- http://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+Adventures%3A+Starship&gid=MTU2NA==
+
+manager: 
+
+gestore astronavi: game controller   !!!!
+gestore input:     input conntroller !!!!
+gestore mappa?     la base sotto?
+gestore texture? no sarà fatto da unreal... bho vedere...
+logiche di gioco? FSM ????
+
+
+
+
+
+
+
+
+
+
